@@ -1,2 +1,2 @@
 # recipes
-Messing around with HTML for learning purposes
+Messing around with HTML for learning purposes.
